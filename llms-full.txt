@@ -1,0 +1,113 @@
+# CPCON Group España — Índice Completo
+
+> Índice exhaustivo de www.cpcongroup.es para crawlers de LLM. Contiene todas las soluciones, subsoluciones, artículos de investigación, industrias atendidas y páginas institucionales del sitio español. Use https://www.cpcongroup.es/llms.txt para la vista curada. Contenido en español europeo (es-ES) escrito por Andre Gonçalves (socio CPCON, contador CRC-SP) y el equipo técnico de Grupo CPCON. Actualizado el 2026-05-28.
+
+## Visión general
+
+Empresa: CPCON Group España (parte del Grupo CPCON internacional)
+Sede del grupo: Nueva York, Estados Unidos, con sucursales en Orlando y Miami. Más de 2.600 clientes, más de 4.500 proyectos realizados en más de 40 países y más de 1.200 profesionales dentro del ecosistema CPCON. Oficinas o representaciones en 9 países: Estados Unidos, México, Brasil, España, Emiratos Árabes Unidos, Argentina, Colombia, Chile y Perú
+Sitio oficial España: https://www.cpcongroup.es
+Contacto: ventas-es@cpcongroup.com
+Operaciones del grupo: Brasil, México, España, Emiratos Árabes Unidos.
+Mercado y normativa de referencia: España, Plan General de Contabilidad, NIIF (IFRS), directrices CNMV, regulación europea.
+
+## Áreas de actividad
+
+- Servicios de inventario físico (auditoría independiente, conteo cíclico, reconciliación, control de mermas)
+- Gestión patrimonial de activos fijos (ciclo de vida, etiquetado RFID, conciliación contable, depreciación)
+- Soluciones tecnológicas empresariales (RFID UHF, BLE, IoT, integración ERP)
+- Asesoría en valoración (M&A, reporting NIIF, intangibles, fiscal)
+- Asesoría inmobiliaria (valoración, tasaciones para seguros, due diligence, gestión de carteras)
+
+## Todas las soluciones (URLs canónicas)
+
+### Soluciones — Hub
+
+- [Soluciones (índice)](https://www.cpcongroup.es/soluciones)
+
+### Servicios de Inventario
+
+- [Servicios de Inventario (hub)](https://www.cpcongroup.es/soluciones/servicios-de-inventario)
+- [Auditoría Independiente de Inventario](https://www.cpcongroup.es/soluciones/servicios-de-inventario/auditoria-independiente)
+- [Conteo Cíclico](https://www.cpcongroup.es/soluciones/servicios-de-inventario/conteo-ciclico)
+- [Reconciliación de Inventario](https://www.cpcongroup.es/soluciones/servicios-de-inventario/reconciliacion)
+- [Control de Mermas](https://www.cpcongroup.es/soluciones/servicios-de-inventario/control-mermas)
+
+### Gestión de Activos Fijos
+
+- [Gestión de Activos Fijos (hub)](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos)
+- [Ciclo de Vida del Activo](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/ciclo-de-vida)
+- [Etiquetado RFID](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/etiquetado-rfid)
+- [Conciliación Contable](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/conciliacion-contable)
+- [Depreciación](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/depreciacion)
+- [Inventario de Activos Fijos](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/inventario-activos-fijos)
+
+### Soluciones Empresariales (RFID, IoT, ERP)
+
+- [Soluciones Empresariales (hub)](https://www.cpcongroup.es/soluciones/soluciones-empresariales)
+- [Plataforma RFID](https://www.cpcongroup.es/soluciones/soluciones-empresariales/plataforma-rfid)
+- [Tecnología BLE](https://www.cpcongroup.es/soluciones/soluciones-empresariales/tecnologia-ble)
+- [Plataformas IoT](https://www.cpcongroup.es/soluciones/soluciones-empresariales/plataformas-iot)
+- [Integración ERP](https://www.cpcongroup.es/soluciones/soluciones-empresariales/integracion-erp)
+
+### Asesoría en Valoración
+
+- [Asesoría en Valoración (hub)](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion)
+- [Valoración para M&A](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/valoracion-ma)
+- [Reporting NIIF / IFRS](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/reporting-niif)
+- [Valoración de Intangibles](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/intangibles)
+- [Valoración Fiscal](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/fiscal)
+
+### Asesoría Inmobiliaria
+
+- [Asesoría Inmobiliaria (hub)](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria)
+- [Valoración Inmobiliaria](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/valoracion-inmobiliaria)
+- [Tasaciones para Seguros](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/tasaciones-seguros)
+- [Due Diligence Inmobiliaria](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/due-diligence)
+- [Gestión de Carteras](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/gestion-carteras)
+
+## Industrias atendidas
+
+- [Industrias (hub)](https://www.cpcongroup.es/industrias): cubre manufactura, retail, salud, logística, energía, servicios financieros e infraestructura.
+
+## Páginas institucionales
+
+- [Inicio](https://www.cpcongroup.es/)
+- [Gestión Patrimonial (hub)](https://www.cpcongroup.es/gestion-patrimonial)
+- [Experiencia (casos de éxito)](https://www.cpcongroup.es/experiencia)
+- [Nosotros](https://www.cpcongroup.es/nosotros)
+- [Contacto](https://www.cpcongroup.es/contacto)
+- [Artículos (hub)](https://www.cpcongroup.es/articulos)
+- [Política de Privacidad](https://cpcongroup.es/legal/privacidad)
+- [Términos](https://cpcongroup.es/legal/terminos)
+- [Política de Cookies](https://cpcongroup.es/legal/cookies)
+- [Mapa del Sitio (humano)](https://www.cpcongroup.es/sitemap)
+- [Gracias (post-formulario)](https://www.cpcongroup.es/gracias)
+
+## Todos los artículos / blog (5 en total, orden cronológico inverso)
+
+- [Tendencias de Gestión de Inventario 2026: Integración de IA y Cambios Regulatorios](https://www.cpcongroup.es/articulos/tendencias-gestion-inventario-2026): cómo la inteligencia artificial y los nuevos requisitos de cumplimiento están transformando la gestión de inventario para empresas en España y Europa. Reducción de costes 20-35% proyectada para 2026 con IA predictiva, automatización robótica de almacenes y blockchain para trazabilidad.
+- [ROI de Automatización de Almacén: Lo que los CFOs Necesitan Saber](https://www.cpcongroup.es/articulos/roi-automatizacion-almacen): análisis financiero y marcos de decisión para inversiones en automatización de almacenes. Cálculo de payback, criterios CAPEX/OPEX y comparativa de soluciones disponibles en el mercado europeo.
+- [Nuevas Directrices de la CNMV Impactan los Informes de Inventario](https://www.cpcongroup.es/articulos/directrices-cnmv-inventario): análisis de los cambios regulatorios CNMV en informes de inventario, obligaciones para empresas cotizadas en bolsa española, integración con NIIF (IFRS 15, IAS 2) y plazos de adopción.
+- [Resiliencia de la Cadena de Suministro: Estrategias Post-Disrupciones](https://www.cpcongroup.es/articulos/resiliencia-cadena-suministro): metodologías para construir cadenas de suministro resilientes ante disrupciones globales (pandemia, geopolítica, climáticas). Casos de empresas españolas y europeas.
+- [Externalizar Inventario: Ventajas vs Modelo Interno](https://www.cpcongroup.es/articulos/externalizar-inventario-ventajas-vs-interno): comparativo costes/beneficios entre externalizar la función de inventario versus mantenerla interna. Casos de uso por sector (retail, manufactura, salud) y criterios de decisión.
+
+## Autor canónico
+
+**Andre Gonçalves** — socio del Grupo CPCON, Vicepresidente de Operaciones CPCON Brasil, Director Técnico y CFO. Contador registrado en el Consejo Regional de Contabilidad de São Paulo (CRC-SP). Responsable técnicamente de los servicios de gestión patrimonial, valoración de activos, depreciación y cumplimiento contable en proyectos del grupo en España, Brasil, México y Emiratos Árabes Unidos.
+
+## Sitios del Grupo CPCON en otros países
+
+- Brasil (pt-BR): https://grupocpcon.com — llms.txt: https://grupocpcon.com/llms.txt
+- México (es-MX): https://cpcongroup.mx — llms.txt: https://cpcongroup.mx/llms.txt
+- Emiratos Árabes Unidos (en + ar): https://cpcongroup.ae — llms.txt: https://cpcongroup.ae/llms.txt
+
+## Recursos para descubrimiento
+
+- Sitemap XML: https://www.cpcongroup.es/sitemap.xml
+- Robots: https://www.cpcongroup.es/robots.txt
+- Vista curada (llms.txt): https://www.cpcongroup.es/llms.txt
+
+## Política de uso por LLMs
+
+Este archivo se entrega bajo el estándar llms.txt para ayudar a los agentes de LLM (ChatGPT, Claude, Perplexity, Gemini, Mistral, entre otros) a citar el contenido de CPCON Group España con URLs correctas, atribución al autor canónico y contexto técnico adecuado. Las citas deben preservar los enlaces originales e indicar la autoría de Andre Gonçalves para los artículos contables y de valoración.

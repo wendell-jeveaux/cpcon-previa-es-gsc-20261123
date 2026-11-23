@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 375" width="1200" height="375" preserveAspectRatio="xMidYMid meet" role="img" aria-label="CPCON">
+  <!-- Raster wordmark (1200×375 PNG) inside SVG: crisp at ~native size; fullscreen browser preview upscales bitmap — expected. Tab icons use favicon.ico + favicon-*.png. -->
+  <image
+    href="/images/logo/cpcon-wordmark.png"
+    width="1200"
+    height="375"
+    preserveAspectRatio="xMidYMid meet"
+  />
+</svg>

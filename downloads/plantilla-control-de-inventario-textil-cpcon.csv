@@ -1,0 +1,16 @@
+Articulo;Seccion;Cantidad;En Circulacion;En Lavado;En Stock;Perdidas;Ciclos;Estado
+SAB-0001;Sabana bajera 90 - Hospital;1200;780;220;200;38;145;OK
+SAB-0002;Sabana encimera 90 - Hospital;1200;760;240;200;42;152;OK
+TOA-0001;Toalla de bano 70x140 - Hotel;1500;920;360;220;55;168;REPONER
+TOA-0002;Toalla de manos 50x90 - Hotel;1800;1140;420;240;61;174;OK
+ALB-0001;Albornoz rizo talla M - Hotel;600;410;120;70;18;96;OK
+BAT-0001;Bata de paciente - Hospital;900;620;210;70;33;118;REPONER
+UNI-0001;Uniforme sanitario (casaca) - Hospital;750;540;160;50;21;88;OK
+UNI-0002;Uniforme sanitario (pantalon) - Hospital;750;530;165;55;24;90;OK
+MAN-0001;Mantel rectangular - Restaurante;400;250;110;40;14;72;CRITICO
+SER-0001;Servilleta de tela - Restaurante;3000;1900;800;300;120;210;OK
+FUN-0001;Funda de almohada - Hotel;1400;900;330;170;47;156;OK
+COL-0001;Colcha / cubrecama - Hotel;500;340;90;70;12;64;OK
+EMP-0001;Empapador reutilizable - Hospital;1000;700;230;70;58;132;REPONER
+CON-0001;Cortina de separacion - Hospital;220;160;30;30;6;48;CRITICO
+DEL-0001;Delantal de cocina - Restaurante;350;220;90;40;16;80;OK

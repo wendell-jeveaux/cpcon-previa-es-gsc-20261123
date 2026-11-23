@@ -1,0 +1,82 @@
+# CPCON Group España
+
+> CPCON Group España es la división europea del Grupo CPCON, consultoría internacional especializada en gestión de inventarios, gestión patrimonial de activos fijos, valoración (M&A, reporting NIIF, intangibles), tecnología RFID UHF e IoT, y asesoría inmobiliaria. Atiende empresas con cumplimiento CNMV, normativa NIIF (IFRS), Plan General de Contabilidad y exigencias del mercado español. Sede del grupo en Nueva York (Estados Unidos), con sucursales en Orlando y Miami. Forma parte de un grupo con oficinas o representaciones en 9 países (Estados Unidos, México, Brasil, España, Emiratos Árabes Unidos, Argentina, Colombia, Chile y Perú), con más de 2.600 clientes, más de 4.500 proyectos realizados y más de 1.200 profesionales dentro del ecosistema CPCON. Andre Gonçalves (socio CPCON, contador CRC-SP) es el autor canónico del contenido técnico. Sitio oficial España: https://www.cpcongroup.es
+
+## Soluciones principales
+
+- [Servicios de Inventario](https://www.cpcongroup.es/soluciones/servicios-de-inventario): conteo cíclico, auditoría independiente, reconciliación y control de mermas.
+- [Gestión de Activos Fijos](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos): ciclo de vida, etiquetado RFID, conciliación contable, depreciación e inventario físico.
+- [Soluciones Empresariales](https://www.cpcongroup.es/soluciones/soluciones-empresariales): plataforma RFID, tecnología BLE, plataformas IoT e integración ERP.
+- [Asesoría en Valoración](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion): valoración M&A, reporting NIIF, intangibles y valoración fiscal.
+- [Asesoría Inmobiliaria](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria): valoración inmobiliaria, tasaciones para seguros, due diligence y gestión de carteras.
+
+## Subsoluciones — Servicios de Inventario
+
+- [Auditoría Independiente de Inventario](https://www.cpcongroup.es/soluciones/servicios-de-inventario/auditoria-independiente)
+- [Conteo Cíclico](https://www.cpcongroup.es/soluciones/servicios-de-inventario/conteo-ciclico)
+- [Reconciliación de Inventario](https://www.cpcongroup.es/soluciones/servicios-de-inventario/reconciliacion)
+- [Control de Mermas](https://www.cpcongroup.es/soluciones/servicios-de-inventario/control-mermas)
+
+## Subsoluciones — Gestión de Activos Fijos
+
+- [Ciclo de Vida del Activo](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/ciclo-de-vida)
+- [Etiquetado RFID](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/etiquetado-rfid)
+- [Conciliación Contable](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/conciliacion-contable)
+- [Depreciación](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/depreciacion)
+- [Inventario de Activos Fijos](https://www.cpcongroup.es/soluciones/gestion-de-activos-fijos/inventario-activos-fijos)
+
+## Subsoluciones — Asesoría en Valoración
+
+- [Valoración para M&A](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/valoracion-ma)
+- [Reporting NIIF / IFRS](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/reporting-niif)
+- [Valoración de Intangibles](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/intangibles)
+- [Valoración Fiscal](https://www.cpcongroup.es/soluciones/asesoria-en-valoracion/fiscal)
+
+## Subsoluciones — Asesoría Inmobiliaria
+
+- [Valoración Inmobiliaria](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/valoracion-inmobiliaria)
+- [Tasaciones para Seguros](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/tasaciones-seguros)
+- [Due Diligence Inmobiliaria](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/due-diligence)
+- [Gestión de Carteras](https://www.cpcongroup.es/soluciones/asesoria-inmobiliaria/gestion-carteras)
+
+## Artículos e investigación (blog)
+
+- [Tendencias de Gestión de Inventario 2026: IA y Cambios Regulatorios](https://www.cpcongroup.es/articulos/tendencias-gestion-inventario-2026): cómo la IA y los nuevos marcos regulatorios están transformando la gestión de inventario en España y Europa.
+- [ROI de Automatización de Almacén: Lo que los CFOs Necesitan Saber](https://www.cpcongroup.es/articulos/roi-automatizacion-almacen): análisis financiero y marcos de decisión para inversiones en automatización.
+- [Nuevas Directrices CNMV Impactan Informes de Inventario](https://www.cpcongroup.es/articulos/directrices-cnmv-inventario): cambios regulatorios CNMV y obligaciones de informe para empresas cotizadas.
+- [Resiliencia de la Cadena de Suministro](https://www.cpcongroup.es/articulos/resiliencia-cadena-suministro): estrategias para mitigar disrupciones globales en supply chain.
+- [Externalizar Inventario: Ventajas vs Modelo Interno](https://www.cpcongroup.es/articulos/externalizar-inventario-ventajas-vs-interno): comparativo costes/beneficios y casos de uso por sector.
+- [¿Necesita caja? Empiece por el inventario que nadie quiere mirar](https://cpcongroup.es/articulos/inventario-excedente-como-generar-caja): inventario inmovilizado como capital de trabajo atrapado, NIC 2 (valor neto realizable) y canales para convertir el excedente en caja.
+
+## Industrias atendidas
+
+- [Industrias (hub)](https://www.cpcongroup.es/industrias): manufactura, retail, salud, logística, energía, sector financiero, infraestructura.
+
+## Páginas institucionales
+
+- [Inicio](https://www.cpcongroup.es/)
+- [Soluciones (hub)](https://www.cpcongroup.es/soluciones)
+- [Gestión Patrimonial (hub)](https://www.cpcongroup.es/gestion-patrimonial)
+- [Experiencia](https://www.cpcongroup.es/experiencia): casos de éxito y proyectos representativos.
+- [Nosotros](https://www.cpcongroup.es/nosotros): equipo, historia y estructura del Grupo CPCON.
+- [Contacto](https://www.cpcongroup.es/contacto): ventas-es@cpcongroup.com
+- [Política de Privacidad](https://cpcongroup.es/legal/privacidad)
+- [Términos](https://cpcongroup.es/legal/terminos)
+- [Política de Cookies](https://cpcongroup.es/legal/cookies)
+- [Mapa del Sitio](https://www.cpcongroup.es/sitemap)
+
+## Autor canónico
+
+Andre Gonçalves — socio del Grupo CPCON, Vicepresidente de Operaciones CPCON Brasil, Director Técnico y CFO. Contador registrado en el Consejo Regional de Contabilidad de São Paulo (CRC-SP). Responsable técnicamente de los servicios de gestión patrimonial, valoración de activos, depreciación y cumplimiento contable en proyectos del grupo en España, Brasil, México y Emiratos Árabes Unidos.
+
+## Sitios del Grupo CPCON en otros países
+
+- Brasil (pt-BR) — https://grupocpcon.com
+- México (es-MX) — https://cpcongroup.mx
+- Emiratos Árabes Unidos (en + ar) — https://cpcongroup.ae
+
+## Recursos para crawlers de LLM
+
+- Índice completo: https://www.cpcongroup.es/llms-full.txt
+- Sitemap XML: https://www.cpcongroup.es/sitemap.xml
+- Robots: https://www.cpcongroup.es/robots.txt
