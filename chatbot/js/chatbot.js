@@ -256,7 +256,7 @@ function cpconShowInlineForm() {
   formRow.className = 'cpcon-row';
   formRow.id = 'cpcon-inline-form';
   formRow.innerHTML =
-    '<div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>' +
+    '<div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>' +
     '<div class="cpcon-bbl cpcon-form-bbl">' +
     '  <div class="cpcon-form-group"><input type="text" id="cpcon-form-nome" placeholder="Nombre y apellidos *" maxlength="100" autocomplete="name"/><div id="cpcon-form-nome-err" class="cpcon-form-err"></div></div>' +
     '  <div class="cpcon-form-group"><input type="email" id="cpcon-form-email" placeholder="Correo electrónico corporativo *" maxlength="200" autocomplete="email"/><div id="cpcon-form-email-err" class="cpcon-form-err"></div></div>' +
@@ -485,7 +485,7 @@ async function cpconSubmitForm() {
   if (String(honeypot).trim()) {
     if (robotErr) robotErr.textContent = 'No fue posible procesar su solicitud. Revise los datos e inténtelo de nuevo. Si necesita ayuda, escríbanos a ventas-es@cpcongroup.com o llame al +34 620 35 87 38.';
     cpconFetchFormToken().then(function (form_token) {
-      fetch(CRM_PROXY_URL + '/cpcon-previa-es-gsc-20261123/chatbot', {
+      fetch(CRM_PROXY_URL + '/chatbot', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         credentials: 'same-origin',
@@ -550,7 +550,7 @@ async function cpconSubmitForm() {
         };
       const postLead = async function () {
         const form_token = await cpconFetchFormToken();
-        return fetch(CRM_PROXY_URL + '/cpcon-previa-es-gsc-20261123/chatbot', {
+        return fetch(CRM_PROXY_URL + '/chatbot', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           credentials: 'same-origin',
@@ -1195,7 +1195,7 @@ function cpconShowTyping() {
   const row = document.createElement('div');
   row.id = 'cpcon-typing';
   row.className = 'cpcon-row';
-  row.innerHTML = '<div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div><div class="cpcon-bbl"><em>escribiendo…</em></div>';
+  row.innerHTML = '<div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div><div class="cpcon-bbl"><em>escribiendo…</em></div>';
   container.appendChild(row);
   cpconScrollDown();
 }

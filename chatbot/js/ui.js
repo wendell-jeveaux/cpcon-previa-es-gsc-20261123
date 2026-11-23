@@ -14,7 +14,7 @@ function cpconSay(txt, cb) {
   typingRow.className = 'cpcon-row';
   typingRow.id = tid;
   typingRow.innerHTML = `
-    <div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
+    <div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
     <div class="cpcon-bbl">
       <div class="cpcon-typing"><span></span><span></span><span></span></div>
     </div>`;
@@ -36,7 +36,7 @@ function cpconAddBot(txt) {
   const row = document.createElement('div');
   row.className = 'cpcon-row';
   row.innerHTML = `
-    <div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
+    <div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
     <div class="cpcon-bbl">${cpconNl2br(cpconEsc(txt))}</div>`;
   container.appendChild(row);
   cpconScrollDown();
@@ -61,7 +61,7 @@ function cpconShowTyping(id) {
   t.className = 'cpcon-row';
   t.id = id;
   t.innerHTML = `
-    <div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
+    <div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
     <div class="cpcon-bbl">
       <div class="cpcon-typing"><span></span><span></span><span></span></div>
     </div>`;
@@ -78,7 +78,7 @@ function cpconAddLiveBot(txt) {
   const row = document.createElement('div');
   row.className = 'cpcon-row';
   row.innerHTML = `
-    <div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
+    <div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
     <div class="cpcon-bbl">${cpconNl2br(cpconEsc(txt))}</div>`;
   container.appendChild(row);
   container.scrollTop = container.scrollHeight;
@@ -103,7 +103,7 @@ function cpconShowLiveTyping() {
   t.className = 'cpcon-row';
   t.id = 'cpcon-ltyp';
   t.innerHTML = `
-    <div class="cpcon-av"><img src="/cpcon-previa-es-gsc-20261123/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
+    <div class="cpcon-av"><img src="/chatbot/images/lucia.webp" alt="Lúcia" width="26" height="26"/></div>
     <div class="cpcon-bbl">
       <div class="cpcon-typing"><span></span><span></span><span></span></div>
     </div>`;
